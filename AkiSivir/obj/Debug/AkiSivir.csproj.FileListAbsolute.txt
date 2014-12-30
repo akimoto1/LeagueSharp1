@@ -1,0 +1,2 @@
+c:\users\marco\documents\visual studio 2013\Projects\AkiSivir\AkiSivir\bin\Release\AkiSivir.exe.config
+c:\users\marco\documents\visual studio 2013\Projects\AkiSivir\AkiSivir\obj\Debug\AkiSivir.csprojResolveAssemblyReference.cache
